@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas
+openpyxl
+requests
+pypdf
+python-dateutil
+pytesseract
+pdf2image
+pillow
